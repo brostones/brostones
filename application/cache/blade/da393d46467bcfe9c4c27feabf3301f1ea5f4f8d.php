@@ -1,0 +1,1 @@
+<!-- Footer CSS JS --><?php /**PATH C:\laragon\www\rimake\blade\ads/footer.blade.php ENDPATH**/ ?>
